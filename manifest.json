@@ -1,0 +1,12 @@
+{
+  "name": "بيتي مع دودو",
+  "short_name": "بيتي مع دودو",
+  "lang": "ar-EG",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#faf6ee",
+  "theme_color": "#6d8b70",
+  "description": "تطبيق شخصي لتنظيم تنظيف البيت والأكل والمخزون والمشتريات والغسيل.",
+  "scope": "./"
+}
